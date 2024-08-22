@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _p15_ConvertirADolares {
+public class p15_ConvertirADolares {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese la cantidad en pesos: ");
