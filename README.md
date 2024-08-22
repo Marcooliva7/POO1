@@ -2,7 +2,6 @@
 
 - Nombre: Marco Antonio De Jesus Oliva Santos
 - Coreeo: oliva312003@gmail.com
-- link de GitHub: https://github.com/Marcooliva7/POO1
 
 ## Actividad 1 
 - p01_Holamundo
