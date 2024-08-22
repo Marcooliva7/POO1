@@ -37,3 +37,7 @@
 - p26_TipoAngulo
 - p27_AceptarEstudiante
 - p28_LeyDeNewton
+    ## Actividad 6
+-
+-
+-
