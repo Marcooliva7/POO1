@@ -24,3 +24,8 @@
 - p18_TrabajandoConstantes
 - p19-TrabajandoCaracteres
 - p20_ConversionTipos
+- p21_VerificarNumero
+- p22_VerificarSuma
+- p23_ConvertirTemperatura
+- p24_PagaTrabajadorv2
+- p25_EstacionesAño
