@@ -15,3 +15,7 @@
 - p09_DividirEnCifras
 - p10_HipotenusaTriangulo
 - p11_CalcularAngulo 
+- p12_ConvertirTemperatura
+- p13_VolumenCilindro
+- p14_CalculoTiempo
+-_p15_ConvertirADolares
