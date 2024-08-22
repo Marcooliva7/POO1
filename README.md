@@ -19,3 +19,8 @@
 - p13_VolumenCilindro
 - p14_CalculoTiempo
 - p15_ConvertirADolares
+- p16_TrabajandoEnteros
+- p17_TrabajandoFlotantes
+- p18_TrabajandoConstantes
+- p19-TrabajandoCaracteres
+- p20_ConversionTipos
