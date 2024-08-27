@@ -14,7 +14,7 @@
 - p07_OperadoresAsignacion
 - p08_FuncionesTrigonometricas
 - p09_DividirEnCifras
-    ## Practica 01
+    ## Práctica 01 – Elementos básicos de Java
 - p10_HipotenusaTriangulo
 - p11_CalcularAngulo 
 - p12_ConvertirTemperatura
@@ -42,3 +42,7 @@
 - p30_DiaSemana
 - p31_NumerosRomanos
 - p32_PagoEstacionamiento
+    ## Práctica 02 - Ejecución condicional
+- p33_NumerosConsecutivos
+- p34_NumeroMayor
+- 
