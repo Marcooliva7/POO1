@@ -11,7 +11,7 @@ System.out.println("Calcula la segunda ley de newton");
 System.out.println("[F]uerza ( f=m*a ) ");
 System.out.println("[M]asa ( m=f/a ) ");
 System.out.println("[A]celeracion ( a=f/m ) ");
-System.out.print("Elije una opcion F,M.A ? ");
+System.out.print("Elije una de las siguientes opciones F,M.A ? ");
 op = Character.toUpperCase(obj.next().charAt(0));
 f = m = a = 0;
 if (op == 'F') {
