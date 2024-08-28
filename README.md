@@ -45,4 +45,7 @@
     ## Práctica 02 - Ejecución condicional
 - p33_NumerosConsecutivos
 - p34_NumeroMayor
-- 
+- p35_ContinentesMundo
+- p36_CompraPizza
+- p37_CalculoNotas
+- p38_AceptarEstudianteV2
