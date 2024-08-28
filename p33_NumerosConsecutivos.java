@@ -12,14 +12,14 @@ Scanner(System.in);
     System.out.println("Dame el segundo numero:");
     int num2 = scanner.nextInt();
    
-    System.out.println("Dame el tercer numero");
+    System.out.println("Dame el tercer numero:");
     int num3 = scanner.nextInt();
 
     if ((num2 == num1 + 1) && (num3 == num2 + 1)) {
-            System.out.println("Los numero si son consecutivos.");
+            System.out.println("Los numeros si son consecutivos.");
     }
         else {
-            System.out.println("Los numeros que ingresaste no son consecutivos");
+            System.out.println("Los numeros que ingresaste no son consecutivos.");
 
            }
         }
