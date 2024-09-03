@@ -3,7 +3,7 @@
 - Nombre: Marco Antonio De Jesus Oliva Santos
 - Coreeo: oliva312003@gmail.com
 
-## Actividad 1 
+    ## Actividad 1 
 - p01_Holamundo
 - p02_AreaCirculo
 - p03_AreaTriangulo
@@ -21,23 +21,23 @@
 - p13_VolumenCilindro
 - p14_CalculoTiempo
 - p15_ConvertirADolares
-    ## Actividad 3 
+    ## Actividad 3 - Trabajando con numeros
 - p16_TrabajandoEnteros
 - p17_TrabajandoFlotantes
 - p18_TrabajandoConstantes
 - p19-TrabajandoCaracteres
 - p20_ConversionTipos
-    ## Actividad 4
+    ## Actividad 4  - Ejecución condicional parte 1
 - p21_VerificarNumero
 - p22_VerificarSuma
 - p23_ConvertirTemperatura
 - p24_PagaTrabajadorv2
-    ## Actividad 5
+    ## Actividad 5 - Ejecución condicional parte 2
 - p25_EstacionesAño
 - p26_TipoAngulo
 - p27_AceptarEstudiante
 - p28_LeyDeNewton
-    ## Actividad 6
+    ## Actividad 6 - Ejecución condicional parte 3
 - p29_Calculadora
 - p30_DiaSemana
 - p31_NumerosRomanos
