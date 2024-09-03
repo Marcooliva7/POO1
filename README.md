@@ -60,3 +60,14 @@
 - p45_ImparesDescendente
 - p46_TablaConversion
 - p47_ConjeturaCollatz
+    ## Práctica 3 - Ejecución repetitiva - while
+- p48_ImparesAscendente  
+- p49_ParesDescendente  
+- p50_ConversionTemperaturas
+- p51_SerieFibonaci
+    ## Actividad 9 - Ejecución repetitiva - parte 3
+- p52_Numeros1aN
+- p53_NumerosNa1
+- p54_ArribaAbajo
+- p55_SumaParesImpares
+- p56_SumaPromedio
