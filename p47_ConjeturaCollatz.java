@@ -22,3 +22,5 @@ public class p47_ConjeturaCollatz {
         System.out.printf("%d ",n );
         }
     }
+
+    
