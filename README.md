@@ -81,3 +81,7 @@
 - p62_SecuenciaNumeros2
 - p63_SumaTerminos1
 - p64_SumaTerminos2
+
+
+    ## Primer examen parcial.
+- ep01_PrimerExamenParcial
