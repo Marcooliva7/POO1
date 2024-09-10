@@ -1,5 +1,5 @@
 /**
- * ep01_PrimerExamenParcial de Programación Orientada a Objetos y Laboratorio
+ * ep01_PrimerExamenParcial de Programación Orientada a Objetos y Laboratorio.
  */
 import java.util.Scanner;
 
