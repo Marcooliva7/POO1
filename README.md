@@ -81,7 +81,25 @@
 - p62_SecuenciaNumeros2
 - p63_SumaTerminos1
 - p64_SumaTerminos2
-
-
     ## Primer examen parcial.
 - ep01_PrimerExamenParcial
+    ## Practica 5 - Practica de repaso 1er Parcial
+- p65-SistemaPapeleria
+    ## Actividad 11 - Funciones Parte 1
+- p66_PromedioNumeros
+- p67_ConversionTemperaturas
+- p68_SumaRango
+- p69_TablaMultiplicar
+- p70_CalificacionLetra
+    ## Actividad 12 - Funciones parte 2
+- p71_MayorTresNumeros
+- p72_SumaDigitos
+- p73_SumaParesImpares
+- p74_Factorial
+- p75_CuadroCaracter 
+    ## Practica 6 - Funciones
+- p76_NumeroMenor
+- p77_DiaSemana  
+- p78_MedidasLongitud  
+- p79_SumaMultiplos
+- p80_Angulo
