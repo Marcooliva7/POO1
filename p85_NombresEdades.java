@@ -11,7 +11,7 @@ public class p85_NombresEdades {
         System.out.println("Cuantos elementos deseas procesar ? "); n = obj.nextInt();
 
         String[] nombres = new String[n];
-        int[] edades =new int[n];
+        int[] edades =new int[n];  
 
         System.out.println("Dame los nombres y las edades dde los " + n + "elementos");
         for(int i=0; i < n ; i++) {
