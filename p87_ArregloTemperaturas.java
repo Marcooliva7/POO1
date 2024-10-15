@@ -1,5 +1,5 @@
 /*
- * p87_ArregloTemperaturas - Calcula mayor,promedio y busca en un arreglo de temperaturas
+ * p87_ArregloTemperaturas - Calcula mayor,promedio y busca en un arreglo de temperaturas 
  */
 
 public class p87_ArregloTemperaturas {
