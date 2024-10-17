@@ -1,6 +1,6 @@
 package p112_ControlVentas;
 
-public class VentaContado extends Venta {
+public class VentaContado extends Venta{
     private double Descuento;
     private String Regalo;
 
@@ -14,14 +14,13 @@ public class VentaContado extends Venta {
         Total = Total - (Total * Descuento);
         return Total;
     }
-
     public String toString() {
-        return "VentaContado [" + super.toString() + ", Descuento=" + Descuento + ", Regalo=" + Regalo + ", Total = " + getTotalVenta()+"]";
+        return "VentaContado [" + super.toString() + ", descuento= " + Descuento + ", regalo= " + Regalo + ", Total= " + getTotalVenta()
+                + "]";
     }
-    
 
-
-    }
+        
+}
 
     
     
