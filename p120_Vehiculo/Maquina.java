@@ -1,9 +1,9 @@
 package p120_Vehiculo;
 
 public abstract class Maquina {
-    protected String nombre;
-    protected String propietario;
-    protected int pasajeros;
+    private String nombre;
+    private String propietario;
+    private int pasajeros;
 
     public Maquina(String nombre, String propietario, int pasajeros) {
         this.nombre = nombre;
@@ -11,11 +11,16 @@ public abstract class Maquina {
         this.pasajeros = pasajeros;
     }
 
-    public void verInformacion() {
-        System.out.println("[Nombre=" + nombre + ", Propietario=" + propietario + ", Pasajeros=" + pasajeros + "]");
+    public abstract void repostar();
+    public abstract void arrancar();
+    public abstract void frenar();
+
+    @Override
+    public String toString() {
+        return "Maquina [Nombre=" + nombre + ", Propietario=" + propietario + ", Pasajeros=" + pasajeros + "]";
     }
 
-    public abstract void sistemaElectrico();
-    public abstract void combustionInterna();
+    protected abstract void sistemaElectrico();
 
+    protected abstract void combustionInterna();
 }
