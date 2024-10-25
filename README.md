@@ -149,3 +149,11 @@
 - p112_ControlVentas
     ## 13 - Segundo Examen Parcial
 - p113_SegundoExamenParcial.
+    ## Actividad 20 - POO - Interfaces
+- p114_Animal
+- p115_Telefono
+- p116_Juego
+- p117_FiguraGeometrica
+    ## Actividad 21 -Herencia en Interfaces
+- p118_Calculadora
+- p119_Organismo
