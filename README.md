@@ -159,3 +159,26 @@
 - p119_Organismo
     ## Practica 12 - Herencia de Interfaces
 - p120_Vehiculo
+    ## Actividad 22 - Manejo de excepciones
+- p121_Excepcion1
+- p122_Excepcion2
+- p123_Excepcion3
+- p124_Excepcion4
+- p125_Excepcion5
+- p126_Excepcion6
+- p127_MiExcepcion
+    ## Practica 13 - Manejo de Excepciones
+- p128_ExcepcionRaiz
+- p129_ExcepcionDulces
+- p130_ExcepcionEdades
+- p131_ExcepcionTemperatura
+    ## Actividad 23 - Manejo de archivos
+- p132_Archivos1
+- p133_Archivos2
+- p134_Archivos3
+- p135_Archivos4
+- p136_Archivos5 
+    ## Practica 14 - Manejo de archivos
+- p137_ArchivoMunicipios
+- p138_ArchivoMaterias
+- p139_ArchivoEstudiante

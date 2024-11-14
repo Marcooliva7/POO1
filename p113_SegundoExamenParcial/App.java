@@ -15,7 +15,7 @@ public class App {
         miequipo.agregarJugador(new JugadorActivo("La bolsa",'H',"Banca No 15",150,4,4));
         miequipo.agregarJugador(new JugadorActivo("EL cuaz",'M',"Banca No 20",350,5,3));
         miequipo.agregarJugador(new JugadorActivo("La mis",'M',"Principal No 12",550,5,5));
-        miequipo.agregarJugador(new JugadorActivo("Mar",'M',"Principal No 12",600,4,2));
+        miequipo.agregarJugador(new JugadorActivo("Wendolin",'M',"Principal No 12",600,4,2));
         miequipo.agregarJugador(new JugadorActivo("Yimbooo",'M',"Principal No 12",700,5,3));
         miequipo.reporte();
         }
