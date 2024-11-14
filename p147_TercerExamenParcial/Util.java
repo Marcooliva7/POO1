@@ -10,8 +10,8 @@ import java.util.ArrayList;
 public class Util {
     public static ArrayList<Jugador> inicializarDatos() {
         ArrayList<Jugador> datos = new ArrayList<>();
-        datos.add(new Jugador("Cristiano Ronaldo", 27, 'H', "Casado", "Delantero", 10000));
-        datos.add(new Jugador("Leonel Messi", 30, 'H', "Soltero", "Defensa", 50000));
+        datos.add(new Jugador("Shora", 21, 'H', "Soltero", "Delantero", 10234));
+        datos.add(new Jugador("El bichooo", 30, 'H', "Casao", "Dt", 12334440));
         return datos;
 
     }
